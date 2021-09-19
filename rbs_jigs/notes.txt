@@ -1,1 +1,2 @@
 current track width: 16mm
+initial track width: 12mm
