@@ -1,0 +1,2 @@
+Chassis:
+- battery holes should be .5mm to port (note that tank direction is reversed and 2mm diameter
