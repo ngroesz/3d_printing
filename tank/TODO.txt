@@ -1,2 +1,5 @@
-Chassis:
-- battery holes should be .5mm to port (note that tank direction is reversed and 2mm diameter
+Hull:
+    - raised by 2mm
+    - sensor mount under turret
+    - add underhangs to avoid supports, wherever possible
+    - turret shaft hole should match bearing size
