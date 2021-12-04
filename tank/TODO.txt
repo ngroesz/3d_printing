@@ -1,5 +1,2 @@
 Hull:
-    - raised by 2mm
-    - sensor mount under turret
-    - add underhangs to avoid supports, wherever possible
-    - turret shaft hole should match bearing size
+    - move turret sensor mount as close as possible to ring gear
