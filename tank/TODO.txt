@@ -1,2 +1,7 @@
+Turret:
+    - Board mounts ~2mm back
+    - mast mount back
+
 Hull:
-    - move turret sensor mount as close as possible to ring gear
+    - Change FTDI hole
+    - Clear supports from battery
