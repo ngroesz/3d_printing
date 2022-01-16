@@ -1,7 +1,2 @@
 Turret:
-    - Board mounts ~2mm back
-    - mast mount back
-
-Hull:
-    - Change FTDI hole
-    - Clear supports from battery
+    - more space for IR pins
