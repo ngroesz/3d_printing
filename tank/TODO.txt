@@ -1,2 +1,13 @@
 Turret:
     - more space for IR pins
+    - drop down mast mount
+
+Chassis
+    - adjust turret drive shaft hole
+
+Hull
+    - double-check screw-hole sizes
+    - double-check LED mount
+    - add relief to screw mounts
+    - peek-thru for turret drive gear
+
