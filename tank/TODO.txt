@@ -1,6 +1,5 @@
 Turret:
-    - more space for IR pins
-    - drop down mast mount
+    - slightly more room at bottom of window for IR lens
 
 Chassis
     - adjust turret drive shaft hole
