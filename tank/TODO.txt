@@ -1,12 +1,3 @@
-Turret:
-    - slightly more room at bottom of window for IR lens
-
 Chassis
-    - adjust turret drive shaft hole
-
-Hull
-    - double-check screw-hole sizes
-    - double-check LED mount
-    - add relief to screw mounts
-    - peek-thru for turret drive gear
-
+    - side should have only two axles at bottom
+    - side should have more material around rear axles
