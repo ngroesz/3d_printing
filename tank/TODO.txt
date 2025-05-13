@@ -5,3 +5,6 @@ Hull:
 
 Turret:
     - inner hole for barrel needs to be slightly larger. and make sure that window support is not in the way
+
+Turret base:
+    - supports to ring gear should be slightly longer (.5mm?) so that turret and ring gear cannot press against hull
