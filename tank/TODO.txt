@@ -1,3 +1,7 @@
-Chassis
-    - side should have only two axles at bottom
-    - side should have more material around rear axles
+Chassis:
+
+Hull:
+    - rear section up (1 mm?) to clear rear plate
+
+Turret:
+    - inner hole for barrel needs to be slightly larger. and make sure that window support is not in the way
