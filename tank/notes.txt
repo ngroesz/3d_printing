@@ -1,0 +1,4 @@
+To make things easier, some models are made of components. The main one is the chassis. There is a chassis_base, to which I add chassis_side and chassis_bump_mount. These are each mirrored and offset:
+    - chassis_side: mirrored in XZ plane and offset 69 millimeters
+    - chassis_bump_mount: mirroed in YZ plane and offset 168 millimeters.
+This is kinda a hassle but saves me from having to copy the mirrored components. There might be a better way to do this.

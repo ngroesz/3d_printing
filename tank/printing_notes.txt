@@ -1,0 +1,1 @@
+Chassis should be printed with a brim. The thin bumper mounts will separate from the plate without some adhesion.

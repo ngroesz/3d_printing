@@ -1,5 +1,3 @@
-Chassis:
-
 Hull:
     - rear section up (1 mm?) to clear rear plate
 
