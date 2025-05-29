@@ -56,5 +56,5 @@ My workflow is to create a design in FreeCAD, export to an .obj file, and use Cu
 ## Turret Mast
 
 * infill percentage: 30%
-* build plate adhesion type: none
+* build plate adhesion type: brim
 * support: none
