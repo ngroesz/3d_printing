@@ -1,9 +1,3 @@
 hull:
-  - move encoder mount
-  - encoder mount holes should be larger
-  - adjust programming slot
 
 chassis:
-  - bump mounts should have support
-  - can battery mount move back further without compromising wheel holes?
-  - should bump switch mounts be made to fit 2mm screws?

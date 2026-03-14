@@ -26,6 +26,8 @@ My workflow is to create a design in FreeCAD, export to an .obj file, and use Cu
 
 * infill percentage: 15%
 * build plate adhesion type: brim
+* support placement: touching buildplate
+* support overhang angle: 89°
 
 ### Hull
 
