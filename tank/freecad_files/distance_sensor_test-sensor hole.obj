@@ -1,0 +1,19 @@
+# FreeCAD v1.1 build0 Arch module
+# https://www.freecad.org
+mtllib distance_sensor_test-sensor hole.mtl
+o sensor hole
+usemtl color_cccce6
+v -3.0 39.0 39.0
+v -3.0 39.0 36.0
+v -3.0 42.0 39.0
+v -3.0 42.0 36.0
+v 2.5 39.0 39.0
+v 2.5 39.0 36.0
+v 2.5 42.0 39.0
+v 2.5 42.0 36.0
+f 4 3 1 2
+f 5 6 8 7
+f 1 5 6 2
+f 8 4 3 7
+f 6 8 4 2
+f 3 1 5 7

@@ -5,3 +5,6 @@ turret:
   - lengthen sensor mounting pegs
   - consider adding more support for mast
   - consider experimenting to see if sensor hole can be smallered
+
+chassis:
+  - sides toward motor 3mm
