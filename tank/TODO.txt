@@ -5,3 +5,4 @@ turret:
   - consider adding more support for mast
 
 chassis:
+  - at 1.3mm, axle holes are still too small for self-tapping screws
