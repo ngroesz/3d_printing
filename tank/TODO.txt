@@ -6,3 +6,4 @@ turret:
 
 chassis:
   - at 1.3mm, axle holes are still too small for self-tapping screws
+  - remove dumb overhang on bottom of print
