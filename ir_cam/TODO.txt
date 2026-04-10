@@ -1,1 +1,2 @@
-ir cam could have 52 mm of interior space width
+- power switch could be switched to other side?
+- add battery cover
