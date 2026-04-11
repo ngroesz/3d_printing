@@ -1,2 +1,3 @@
 - power switch could be switched to other side?
 - add battery cover
+- in order to do counter-sink holes, i would have to move top mount screw holes inward
