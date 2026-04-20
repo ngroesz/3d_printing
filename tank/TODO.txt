@@ -5,12 +5,7 @@ turret:
   - consider adding more support for mast
 
 chassis:
-  - at 1.3mm, axle holes are still too small for self-tapping screws
-  - remove dumb overhang on bottom of print
-  - consider to move board 2mm (?) away from motors
-  - consider modifying wheel sensor mount
   - standoffs could be slightly taller (to accomodate motor-mount screws)
-  - axles need to adjusted in order to achieve proper tread tension
 
 hull:
   - enlargen speaker mount
