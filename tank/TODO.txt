@@ -2,10 +2,11 @@ turret ring gear:
   - adjust mounting hole
 
 turret:
-  - consider adding more support for mast
+  - support should only be touching buildplate
+  - IR blank should extend across support
+  - no bed adhesion is necessary
 
 chassis:
-  - standoffs could be slightly taller (to accomodate motor-mount screws)
 
 hull:
   - enlargen speaker mount
