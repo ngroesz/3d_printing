@@ -2,11 +2,12 @@ turret ring gear:
   - adjust mounting hole
 
 turret:
-  - support should only be touching buildplate
-  - IR blank should extend across support
-  - no bed adhesion is necessary
+
+turret base:
+  - perhaps increase bearing size?
 
 chassis:
 
 hull:
-  - enlargen speaker mount
+  - adjust header port
+  - LED strip space
