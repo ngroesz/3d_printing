@@ -9,5 +9,5 @@ turret base:
 chassis:
 
 hull:
-  - adjust header port
-  - LED strip space
+  - header port 1 mm wider toward back
+  - adjust ground indicator for programming port
