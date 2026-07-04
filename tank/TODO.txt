@@ -9,5 +9,11 @@ turret base:
 chassis:
 
 hull:
-  - header port 1 mm wider toward back
-  - adjust ground indicator for programming port
+  - adjusting ring gear size. 
+    current cutout: 52.4 dia 
+    turret base ring: 48.8 dia
+    (difference of 3.6 mm)
+
+    new cutout: 50 dia
+    new base ring: 47 mm
+    new ring gear slip ring OD: 45mm
