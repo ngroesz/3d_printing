@@ -1,17 +1,2 @@
 hull:
-  - header cutout could be smaller but need to wait until new board to test
-  - need to adjust for new LEDs
-  - add cutout for mast mount
-
-turret base and ring gear:
-  - need to review interface
-
-
-  - adjusting ring gear size.
-    current cutout: 52.4 dia
-    turret base ring: 48.8 dia
-    (difference of 3.6 mm)
-
-    new cutout: 50 dia
-    new base ring: 47 mm
-    new ring gear slip ring OD: 45mm
+  - add hole for mast mount screw
