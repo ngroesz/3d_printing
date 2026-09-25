@@ -1,2 +1,2 @@
 hull:
-  - add hole for mast mount screw
+  - header cutout adjustment

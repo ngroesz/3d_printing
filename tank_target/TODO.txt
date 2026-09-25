@@ -1,7 +1,6 @@
 tank_trainer_top:
-  - switch can be moved forward?
-  - add holes for shipping braces
-  - re-examine holes for receiver lens
+  - ir receiver cutout to 7.2mm
 
 tank_trainer_body:
   - ensmallen programming header cutout
+  - fix holes for shipping braces
